@@ -32,3 +32,11 @@
     background-color: black;
     color: #ffffff;
   }
+  .container-d{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10px;
+    padding-top: 20px;
+  }
